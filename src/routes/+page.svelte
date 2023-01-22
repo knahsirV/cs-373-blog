@@ -7,6 +7,13 @@
 			date: '01/14/2023',
 			image: 'https://images.unsplash.com/photo-1500576992153-0271099def59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80'
 		},
+		{
+			title: 'Reviewing my second week & getting into the groove of things',
+			description: "Here's some of my thoughts about how my second week went, what I'm looking forward to in the future, and some of my favorite things from the week.",
+			slug: 'post-2',
+			date: '01/21/2023',
+			image: 'https://images.unsplash.com/photo-1579562738344-5274ba7aee76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80'
+		},
 		
 	];
 	let latest = posts[posts.length - 1];
@@ -21,7 +28,7 @@
 		  Welcome! This is where I'll be posting my weekly blog posts for CS 373. The site is pretty barebones right now since we only had a couple days to submit our first blog post, but I'll be adding more complexity as the semester goes on.
 		</p>
 	  </div>
-	  <div class="grid gap-8 md:grid-cols-{Math.min(2, posts.length)} lg:grid-cols-{Math.min(3, posts.length)} {posts.length == 1 ? 'md:max-w-md' : ''} mx-auto md:justify-content-center">
+	  <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3 mx-auto md:justify-content-center">
 		{#each posts as post}
 		<div class="group p-6 sm:p-8 rounded-3xl border border-gray-700 bg-gray-800 bg-opacity-50 shadow-2xl hover:scale-105 transition-all">
 		  <div class="relative overflow-hidden rounded-xl">
