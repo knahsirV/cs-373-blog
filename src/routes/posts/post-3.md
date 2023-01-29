@@ -31,4 +31,4 @@ On Friday, a few of my friends and I tried out a small Italian restaurant up nor
 
 # Pick-of-the-week
 
-When using a code editor, I strongly recommend using a font that comes with ligatures so that it's easier to read and just looks better in general. For example, typing out "<=" will instead show up as "≤". I use Fira Code, which is a free font that comes with ligatures.  You can download it [here](https://github.com/tonsky/FiraCode)
+When using a code editor, I strongly recommend using a font that comes with ligatures so that it's easier to read and just looks better in general. For example, typing out the less than sign and equal sign will show up as "≤" in your editor. The code itself isn't actually changing, and its just the font that makes it appear that way. I use Fira Code, which is a free font that comes with ligatures.  You can download it [here](https://github.com/tonsky/FiraCode)
