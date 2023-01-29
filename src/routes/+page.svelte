@@ -14,9 +14,14 @@
 			date: '01/21/2023',
 			image: 'https://images.unsplash.com/photo-1579562738344-5274ba7aee76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80'
 		},
-		
+		{
+			title: 'A retroperspective on my third week',
+			description: "Here's some of my thoughts about how my third week went, what I'm looking forward to in the future, and some of my favorite things from the week.",
+			slug: 'post-3',
+			date: '01/29/2023',
+			image: 'https://images.unsplash.com/photo-1579562738344-5274ba7aee76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80'
+		},
 	];
-	let latest = posts[posts.length - 1];
 </script>
 
 
