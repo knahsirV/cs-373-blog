@@ -23,7 +23,7 @@ This paper was interesting to me since I thought I knew the general purpose of a
 
 # My experience with exceptions & types
 
-Though the idea of exceptions is nothing new to us as computer science students, learning about the logical flow when exceptions are raised and handled was especially useful. Until now, I was only really aware of try-catch blocks as a means of controlling the flow of logical execution, but the use of the else and finally clauses in tandem with the try-catch block was something I had never seen before. I'm sure I'll be using this in the future, and I'm glad I learned about it now. Using these techniques in the future will help me write more robust code that is less likely to break, as well as code that more gracefully handles errors and exits.
+Though the idea of exceptions is nothing new to us as computer science students, learning about the logical flow when exceptions are raised and handled was especially useful. Until now, I was only really aware of try-catch blocks as a means of controlling the flow of logical execution, but the use of the else and finally clauses in tandem with the try-catch block was something I had never seen before. I'm sure I'll be using this in the future, and I'm glad I learned about it now. Using these techniques in the future will help me write more robust code that is less likely to break, as well as code that more gracefully handles errors and exits. The refresher on types was also very helpful. Had I not remebered the Integer class, like the String class, is immutable, I may have used it as if it were by accident at some point. I'm glad I was reminded of this, as it will help me write better code in the future.
 
 # Happiest part of the week
 
