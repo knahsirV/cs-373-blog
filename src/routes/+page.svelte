@@ -27,7 +27,7 @@
 			image: 'https://live.staticflickr.com/65535/49385963027_e722fcd443_b.jpg'
 		},
 		{
-			title: 'Looking back on week 5',
+			title: 'Looking Back On Week 5',
 			description:
 				"Here are some thoughts about how my fifth week went, what I'm looking forward to in the future and some of my favorite things from the week.",
 			slug: 'post-5',
