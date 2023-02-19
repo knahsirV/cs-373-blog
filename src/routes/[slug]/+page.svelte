@@ -1,6 +1,7 @@
 <script>
 	import Header from '$lib/components/Header.svelte';
 	import profile from '$lib/assets/profile.png';
+	import post6 from '$lib/assets/post6.jpg';
 
 	export let data;
 </script>
@@ -32,7 +33,7 @@
 
 	<div class="relative overflow-hidden rounded-xl">
 		<img
-			src={data.image}
+			src={data.image === '$lib/assets/post6.jpg' ? post6 : data.image}
 			alt="art cover"
 			loading="lazy"
 			class="w-full aspect-video object-cover object-center"

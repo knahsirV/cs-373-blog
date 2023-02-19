@@ -1,4 +1,6 @@
 <script>
+	import post6 from '$lib/assets/post6.jpg';
+
 	let posts = [
 		{
 			title: 'Introduction and getting to know me',
@@ -34,6 +36,14 @@
 			date: '02/12/2023',
 			image:
 				'https://images.unsplash.com/photo-1601579112934-17ac2aa86292?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2336&q=80'
+		},
+		{
+			title: 'Reexamining Week 6',
+			description:
+				"Here are some thoughts about how my sixth week went, what I'm looking forward to in the future, and some of my favorite things from the week.",
+			date: '02/19/2023',
+			slug: 'post-6',
+			image: post6
 		}
 	];
 </script>
