@@ -44,6 +44,14 @@
 			date: '02/19/2023',
 			slug: 'post-6',
 			image: post6
+		},
+		{
+			title: 'Thinking about Week 7',
+			description:
+				"Here are some thoughts about how my seventh week went, what I'm looking forward to in the future, and some of my favorite things from the week.",
+			date: '02/26/2023',
+			slug: 'post-7',
+			image: 'https://imgs.search.brave.com/xaIj3ozWg8-blVgxKR7VaVOvSPtCGLD5toH9yuv4HSc/rs:fit:1200:960:1/g:ce/aHR0cHM6Ly9pMS53/cC5jb20vYXRsYW50/YWZpLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8xMC9j/aGljay1maWwtQS1z/YXVjZS5qcGc_Zml0/PTE0NDAsOTYwJnNz/bD0x'
 		}
 	];
 </script>
