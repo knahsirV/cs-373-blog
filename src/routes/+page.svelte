@@ -51,7 +51,17 @@
 				"Here are some thoughts about how my seventh week went, what I'm looking forward to in the future, and some of my favorite things from the week.",
 			date: '02/26/2023',
 			slug: 'post-7',
-			image: 'https://imgs.search.brave.com/xaIj3ozWg8-blVgxKR7VaVOvSPtCGLD5toH9yuv4HSc/rs:fit:1200:960:1/g:ce/aHR0cHM6Ly9pMS53/cC5jb20vYXRsYW50/YWZpLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8xMC9j/aGljay1maWwtQS1z/YXVjZS5qcGc_Zml0/PTE0NDAsOTYwJnNz/bD0x'
+			image:
+				'https://imgs.search.brave.com/xaIj3ozWg8-blVgxKR7VaVOvSPtCGLD5toH9yuv4HSc/rs:fit:1200:960:1/g:ce/aHR0cHM6Ly9pMS53/cC5jb20vYXRsYW50/YWZpLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8xMC9j/aGljay1maWwtQS1z/YXVjZS5qcGc_Zml0/PTE0NDAsOTYwJnNz/bD0x'
+		},
+		{
+			title: 'Thinking about Week 8',
+			description:
+				"Here are some thoughts about how my eighth week went, what I'm looking forward to in the future, and some of my favorite things from the week.",
+			date: '03/05/2023',
+			slug: 'post-8',
+			image:
+				'https://images.unsplash.com/photo-1611480192372-a14647c28851?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2358&q=80'
 		}
 	];
 </script>
