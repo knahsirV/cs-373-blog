@@ -62,6 +62,14 @@
 			slug: 'post-8',
 			image:
 				'https://images.unsplash.com/photo-1611480192372-a14647c28851?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2358&q=80'
+		},
+		{
+			title: 'Thinking about Week 9',
+			description:
+				"Here are some thoughts about how my ninth week went, what I'm looking forward to in the future, and some of my favorite things from the week.",
+			date: '03/12/2023',
+			slug: 'post-9',
+			image: 'https://images.unsplash.com/photo-1536349788264-1b816db3cc13?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=986&q=80'
 		}
 	];
 </script>
