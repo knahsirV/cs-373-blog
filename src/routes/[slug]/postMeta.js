@@ -77,5 +77,13 @@ export const postMeta = [
         date: '03/26/2023',
         slug: 'post-10',
         image: 'https://images.unsplash.com/photo-1608889175638-9322300c46e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80'
-    }
+    },
+    {
+        title: 'Thinking about Week 11',
+        description:
+            "Here are some thoughts about how my eleventh week went, what I'm looking forward to in the future, and some of my favorite things from the week.",
+        date: '04/02/2023',
+        slug: 'post-11',
+        image: 'https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/rhblD6kN6eVhPWodAXVGJT7w29E=/1660x0/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/V2RIAGGMFBALRN3D5OTBB7RYSI.jpg',
+    },
 ];
