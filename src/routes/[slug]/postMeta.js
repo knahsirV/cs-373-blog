@@ -86,4 +86,12 @@ export const postMeta = [
         slug: 'post-11',
         image: 'https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/rhblD6kN6eVhPWodAXVGJT7w29E=/1660x0/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/V2RIAGGMFBALRN3D5OTBB7RYSI.jpg',
     },
+    {
+        title: 'Looking Back on the Course',
+        description:
+            "Here are my final thoughts about how this course went, my favorite things about it, and what I learned.",
+        date: '04/23/2023',
+        slug: 'post-14',
+        image: 'https://images.unsplash.com/photo-1649810284947-ffad1fa44634?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80',
+    },
 ];
